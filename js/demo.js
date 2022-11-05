@@ -1,3 +1,1 @@
-<script>
-    console.log('sdaj');
-</script>
+    console.log('Mở cửa sổ console và cảm nhận');
